@@ -10,3 +10,4 @@ function insertAtPos(array1, array2, pos) {
     ];
     console.log(result);
 }
+insertAtPos([1, 2, 3], [4, 5], 1);
